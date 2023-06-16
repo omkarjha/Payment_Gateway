@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formfor{
+    background: #0000 url(img/child.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: hue;
+    height: 100vh;
+}
+.overall{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.subtext{
+    font-size: 2rem;
+    color: azure;
+    letter-spacing: 0.2rem;
+    margin: 2rem 0;
+}
+.besform{
+    font-size: 5rem;
+    color: azure;
+    line-height: 3.5rem;
+    font-weight: bold;
+}
