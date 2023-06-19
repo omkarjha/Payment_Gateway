@@ -1,6 +1,6 @@
 # Integrated Payment Gateway using Razorpay
 
-This project is an implementation of an integrated payment gateway using HTML, CSS, and JavaScript with the Razorpay payment gateway API. It has been developed by Omkar Abhishek Jha, a student of Techno International New Town, studying Information Technology.
+This project is an implementation of an integrated payment gateway using HTML & CSS with the Razorpay payment gateway API. It has been developed by Omkar Abhishek Jha, a student of Techno International New Town, studying Information Technology.
 
 ## Features
 
@@ -13,7 +13,6 @@ This project is an implementation of an integrated payment gateway using HTML, C
 
 - HTML: Used for creating the structure and layout of the payment gateway.
 - CSS: Used for styling the user interface and making it visually appealing.
-- JavaScript: Used for integrating with the Razorpay API and handling payment processing.
 
 ## File Structure
 
@@ -21,7 +20,7 @@ The project consists of the following files:
 
 1. `index.html`: The main HTML file that contains the structure of the payment gateway.
 2. `style.css`: The CSS file that includes the styles for the user interface.
-3. `script.js`: The JavaScript file that implements the integration with the Razorpay API and handles payment processing.
+
 
 ## Usage
 
